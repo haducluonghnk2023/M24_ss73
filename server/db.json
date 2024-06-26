@@ -1,0 +1,24 @@
+{
+  "listWork": [
+    {
+      "id": 1,
+      "name": "quét nhà",
+      "status": true
+    },
+    {
+      "id": 2,
+      "name": "giặt quần áo",
+      "status": true
+    },
+    {
+      "id": 3,
+      "name": "nấu cơm",
+      "status": true
+    },
+    {
+      "name": "dasdsadsad",
+      "status": true,
+      "id": 5
+    }
+  ]
+}
